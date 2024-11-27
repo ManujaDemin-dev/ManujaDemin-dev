@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nextshark.b-cdn.net/wp-content/uploads/2018/01/007.gif?width=1024&auto_optimize=medium&quality=85" height="500px" width="800px" alt="MasterHead" />
+  <img src="https://nextshark.b-cdn.net/wp-content/uploads/2018/01/007.gif?width=1024&auto_optimize=medium&quality=85" height="350px" width="630px" alt="MasterHead" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Manuja Demin(Annonixli)</h1>
